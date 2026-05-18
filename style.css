@@ -1,0 +1,31 @@
+.education{
+    background-color: black;
+}
+.skills{
+    background-color: black;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#outer{
+    color: black;
+    border: solid black;
+}
+#outer1{
+    color: black;
+    border: solid black;
+}
+
+#box1{
+    background-color: black;
+    display: inline;
+}
+li{
+    padding-left: -30px;
+    margin-left: -30px;
+    list-style-type: none;
+}
+header{
+   background-color: black; 
+}
